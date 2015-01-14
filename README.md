@@ -1,2 +1,2 @@
 # bibliotik-user-css
-CSS theme for Bibliotik
+'Bibliotik Inverse' CSS theme
